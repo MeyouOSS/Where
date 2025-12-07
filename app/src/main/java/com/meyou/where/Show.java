@@ -505,7 +505,7 @@ public class Show extends Common implements MyInterface {
         webView.getSettings().setLoadsImagesAutomatically(true);
         webView.getSettings().setLoadWithOverviewMode(true);
         webView.getSettings().setUseWideViewPort(true);
-        webView.loadUrl("http://where.lcjuves.com");
+        webView.loadUrl("https://where.lcjuves.com");
         break;
       case 36:
         final ArrayAdapter<String> arrayAdapter =

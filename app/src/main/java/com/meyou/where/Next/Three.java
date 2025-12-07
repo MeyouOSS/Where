@@ -267,7 +267,7 @@ public class Three extends What {
                 + "            webView.getSettings().setJavaScriptEnabled(true);\n"
                 + "            webView.setWebViewClient(new WebViewClient());\n"
                 + "            webView.getSettings().setLoadsImagesAutomatically(true);\n"
-                + "            webView.loadUrl(\"http://www.dgtle.com\");\n"
+                + "            webView.loadUrl(\"https://where.lcjuves.com\");\n"
                 + "\n"
                 + "\n"
                 + "      }\n"
