@@ -6,6 +6,6 @@
 
 <!-- [![Android CI](https://github.com/LcJuves/where/actions/workflows/android.yml/badge.svg?branch=main)](https://github.com/LcJuves/where/actions/workflows/android.yml) -->
 
-### If you like this project very much from the bottom of your heart, you can use Alipay to scan the following QR code to donate to the author:
+<!-- ### If you like this project very much from the bottom of your heart, you can use Alipay to scan the following QR code to donate to the author:
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./AlipayDark.svg"><source media="(prefers-color-scheme: light)" srcset="./Alipay.svg"><img src="./Alipay.svg" height="220"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./AlipayDark.svg"><source media="(prefers-color-scheme: light)" srcset="./Alipay.svg"><img src="./Alipay.svg" height="220"></picture> -->
